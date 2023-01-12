@@ -20,6 +20,7 @@ public class BMSMainFrame extends JFrame{
 		cpane = getContentPane();
 		cpane.setLayout(layout);
 		setTitle("Book Management System (Bms)");
+		
 		setSize(600, 600);
 		setLocationRelativeTo(null);
 		setDefaultCloseOperation(EXIT_ON_CLOSE);
